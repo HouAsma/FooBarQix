@@ -1,2 +1,2 @@
 # FooBarQix
- test; cette solution est développé avec la langage JAVA
+Cette solution est développé avec la langage JAVA, c'est pour le compte de la societe Wemanity. 
